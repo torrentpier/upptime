@@ -22,19 +22,19 @@
     "url": "https://get-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/get-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-download-center",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2406,
-    "timeDay": 9700,
-    "timeWeek": 2406,
-    "timeMonth": 2406,
-    "timeYear": 2406,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2658,
+    "timeDay": 6936,
+    "timeWeek": 2658,
+    "timeMonth": 2658,
+    "timeYear": 2658,
     "dailyMinutesDown": {
-      "2025-02-10": 1
+      "2025-02-10": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2181,
-    "timeDay": 6072,
-    "timeWeek": 2181,
-    "timeMonth": 2181,
-    "timeYear": 2181,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 3124,
+    "timeDay": 7427,
+    "timeWeek": 3124,
+    "timeMonth": 3124,
+    "timeYear": 3124,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 11
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4308,
-    "timeDay": 4881,
-    "timeWeek": 4308,
-    "timeMonth": 4308,
-    "timeYear": 4308,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 4834,
+    "timeDay": 6434,
+    "timeWeek": 4834,
+    "timeMonth": 4834,
+    "timeYear": 4834,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 11
     }
   }
 ]
