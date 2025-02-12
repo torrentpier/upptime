@@ -45,19 +45,19 @@
     "url": "https://torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-demo",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
-    "time": 5035,
-    "timeDay": 7494,
-    "timeWeek": 5035,
-    "timeMonth": 5035,
-    "timeYear": 5035,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 5127,
+    "timeDay": 7101,
+    "timeWeek": 5127,
+    "timeMonth": 5127,
+    "timeYear": 5127,
     "dailyMinutesDown": {
-      "2025-02-12": 1,
+      "2025-02-12": 23,
       "2025-02-11": 56,
       "2025-02-10": 11
     }
@@ -67,7 +67,7 @@
     "url": "https://archive-torrentpier.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive-torrentpier.duckdns.org.ico",
     "slug": "torrent-pier-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "99.09%",
     "uptimeWeek": "99.56%",
@@ -79,6 +79,7 @@
     "timeMonth": 4692,
     "timeYear": 4692,
     "dailyMinutesDown": {
+      "2025-02-12": 0,
       "2025-02-11": 24,
       "2025-02-10": 11
     }
